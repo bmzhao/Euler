@@ -4,7 +4,7 @@ public class Euler4
 {
 	public static void main(String[] args)
 	{
-		System.out.println("hello world");
+		System.out.println("hello world"); //hello
 		int answer = 0;
 		for (int i = 999; i >=100; i--)
 		{
